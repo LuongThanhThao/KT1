@@ -1,0 +1,43 @@
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tenct h1 {
+    font-size: 50px; 
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tenct h1 strong {
+Color: blue;
+}
+.tenct h2 {
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 50px; 
+}
+.sanpham { 
+    font-family: Arial,sans-serif;
+    font-weight: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+  
+}
+ a{ background-color: black;
+    color: white;
+    text-decoration: none;
+    font-family: Arial ;
+    padding: 15px;
+    border-radius: 5px;
+    margin-right: 20px;
+}

@@ -1,0 +1,25 @@
+.tieude{
+  font-family:  Arial, sans-serif;
+}
+main {
+  max-width: 650px;
+  font-family: Arial, sans-serif;
+}
+h1{
+  font-size: 28px;
+}
+h2{
+  font-size: 18px;
+}
+p{
+  font-size: 15px;
+}
+li{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+  background-color: rgb(24, 148, 206);
+  color: white;
+  padding: 10px;
+}

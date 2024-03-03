@@ -1,0 +1,30 @@
+.noidung{
+    margin: 0 auto;
+    justify-content: center;
+    align-content: center;
+    display: grid;
+    place-items: center;
+    font-family:  Arial, sans-serif;
+    background-image: url(nganha.webp);
+    background-size:2000px;
+    grid-template-columns: repeat(4, 1fr);
+    text-indent: 1,5em;
+}
+.noidung IMG {
+  margin-top: 100PX;
+ margin-left: 2px;
+
+}
+.noidung h1{
+  line-height: 2;
+  color: white;
+  font-size: 50PX;
+  font-weight: normal;
+  margin-bottom: 5PX;
+}
+.noidung p{
+  color: white;
+  font-size: 20px;
+  margin-bottom:100PX;
+  color: yellow;
+}

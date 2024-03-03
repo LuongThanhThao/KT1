@@ -1,0 +1,28 @@
+     .tieude{
+        margin: 0 auto;
+        align-content: center;
+        display: grid;
+        place-items: center;
+        font-family:  Arial, sans-serif;
+        background-image: url(caphe.jpg);
+        background-size:2000px;
+      }
+    .tieude h1{
+      font-size: 25px;
+      font-weight: normal;
+      color: white;
+      margin-top: 100px;
+    }
+    .tieude p{
+      font-size: 17px;
+      color: white;
+    }
+    .tieude button{
+      width:250PX;
+      height: 70PX;
+      font-size: 20PX;
+      color: white;
+      background-color:rgb(234, 60, 33);
+      border: none;
+      border-radius: 5px;
+      margin-bottom: 100px;
